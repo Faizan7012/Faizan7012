@@ -29,7 +29,7 @@
 ### Projects
 
       
-![Codecov]( <img src="https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg"  width="100" height="60" />) | ![github code](<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="100" height="60" />)
+![Codecov](https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg) | ![github code](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
        
    
    
@@ -67,8 +67,7 @@
 
 
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?userFaizan7012"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan7012"/>
 </p>
 
 
