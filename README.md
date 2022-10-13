@@ -51,7 +51,9 @@
 
 
 
-![faizan](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012) | ![Faizan GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan7012&theme=dark&show_icons=true) | ![faizan streek stats](https://github-readme-streak-stats.herokuapp.com/?user=Faizan7012)
+![faizan](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012) | ![Faizan GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan7012&theme=aura&show_icons=true)
+
+![faizan streek stats](https://github-readme-streak-stats.herokuapp.com/?user=Faizan7012)
 
 
 
