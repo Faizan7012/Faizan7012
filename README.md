@@ -42,6 +42,14 @@
 
 
 
+
+
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012)
+
+
+
+
+
+![alt](https://github-readme-stats.vercel.app/api?username={username})
 
 
