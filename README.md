@@ -26,14 +26,6 @@
 
 
 
-### Projects
-
-      
-![Codecov](https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg) | ![github code](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-       
-   
-   
-   
 
 ### Deploy Tool 
 
