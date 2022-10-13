@@ -55,12 +55,12 @@
 
 
 
-<p align="center" style="margin-top: 40px">
+<p align="center" style="margin-top: 100px">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012' />
   <img src='https://github-readme-stats.vercel.app/api?username=Faizan7012&theme=aura&show_icons=true' />
 </p>
 
-<p align="center" style="margin-top: 40px">
+<p align="center" style="margin-top: 100px">
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=Faizan7012' />
 </p>
 
