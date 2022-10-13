@@ -27,6 +27,8 @@
 
 
 ### Projects
+
+<p>
 <div display='flex' justifyContent='space-between'>
 
      <div display='flex' gap:'30px' alignItems='center'>
@@ -49,6 +51,8 @@
      </div>
 
 </div>   
+
+</p>
 
 
 
