@@ -30,6 +30,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+### Projects 
+
+[![Codecov-Clone shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://codecov-clone.netlify.app/) |[![SparkAmerica-Clone shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://spectacular-fairy-b96b90.netlify.app)
+
+
 
 
 ### Deploy Tool 
