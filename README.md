@@ -50,6 +50,6 @@
 
 
 
-![alt](https://github-readme-stats.vercel.app/api?username={username})
+![alt](https://github-readme-stats.vercel.app/api?username=Faizan7012)
 
 
