@@ -25,6 +25,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+
+### Projects
+  ![Codecov](https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg)
+   
+
+
+
+
 ### Deploy Tool 
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
