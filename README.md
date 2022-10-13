@@ -27,7 +27,7 @@
 
 
 ### Projects
-  ![Codecov](https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg)
+  <img src="https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg"  width="100" height="60">
    
 
 
