@@ -32,7 +32,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012
 
 
 
@@ -40,4 +39,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+
+
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012)
+
 
