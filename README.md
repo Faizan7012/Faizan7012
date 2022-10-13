@@ -27,8 +27,28 @@
 
 
 ### Projects
-  <img src="https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg"  width="100" height="60">
-   
+<div display='flex' justifyContent='space-between'>
+
+     <div display='flex' gap:'30px' alignItems='center'>
+       
+       <a href='https://codecov-clone.netlify.app/'>
+       <img src="https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg"  width="100" height="60" /> 
+       </a>
+       <a href='https://github.com/Faizan7012/noble-weather-6049.git'>
+       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="100" height="60" />
+       </a>
+     </div>
+      <div display='flex' gap:'30px' alignItems='center'>
+       
+       <a href='https://codecov-clone.netlify.app/'>
+       <img src="https://about.codecov.io/wp-content/themes/codecov/assets/brand/logos/codecov.svg"  width="100" height="60" /> 
+       </a>
+       <a href='https://github.com/Faizan7012/noble-weather-6049.git'>
+       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="100" height="60" />
+       </a>
+     </div>
+
+</div>   
 
 
 
@@ -62,5 +82,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizan7012"/>
 </p>
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?userFaizan7012"/>
+</p>
+
+
 
 
