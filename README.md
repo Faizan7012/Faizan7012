@@ -1,4 +1,9 @@
 
+
+### Contact 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:faizanst077@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-liuxunzhuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bitliu/)](www.linkedin.com/in/faizan-alam-110361239)
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
