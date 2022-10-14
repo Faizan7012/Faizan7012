@@ -23,7 +23,7 @@
 <div align='center'>
 
   ![age](https://img.shields.io/badge/age-25-blue&height="20")
-  ![living](https://img.shields.io/badge/living-Moradabad,UttarPradesh)
+  ![living](https://img.shields.io/badge/living-Moradabad,UttarPradesh-maroon)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
 <br/>
