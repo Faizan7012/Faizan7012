@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drive.google.com/file/d/1iDwWk1F3T5vFneJlH8WT-6BOW1riEJ3x/view?usp=sharing"></p>
+<p align="center"><img href="https://drive.google.com/file/d/1iDwWk1F3T5vFneJlH8WT-6BOW1riEJ3x/view?usp=sharing"></p>
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Faizan Alam</a>!
