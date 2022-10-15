@@ -1,4 +1,4 @@
-<p align="center"><img href="https://drive.google.com/file/d/1iDwWk1F3T5vFneJlH8WT-6BOW1riEJ3x/view?usp=sharing"></p>
+<p align="center"><img src="https://scontent.fdel25-1.fna.fbcdn.net/v/t15.5256-10/311417164_424212569791991_1073236116116311669_n.jpg?stp=c134.0.200.200a_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=08638f&_nc_ohc=fotT7KbuSZAAX965FFt&_nc_ht=scontent.fdel25-1.fna&oh=00_AT_9jfovihP8a_ugCTsQLnnOGyv7nfnex79TmSZ_Y89veA&oe=63508ACE"></p>
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Faizan Alam</a>!
