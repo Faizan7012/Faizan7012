@@ -31,7 +31,7 @@
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](www.linkedin.com/in/faizan7012)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/faizan7012)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://faizan7012.github.io/)
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Faizan7012)
 </div>
