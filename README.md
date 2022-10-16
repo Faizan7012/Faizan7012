@@ -1,7 +1,7 @@
-<p align="center"><img src="https://scontent.fdel25-1.fna.fbcdn.net/v/t15.5256-10/311417164_424212569791991_1073236116116311669_n.jpg?stp=c134.0.200.200a_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=08638f&_nc_ohc=fotT7KbuSZAAX965FFt&_nc_ht=scontent.fdel25-1.fna&oh=00_AT_9jfovihP8a_ugCTsQLnnOGyv7nfnex79TmSZ_Y89veA&oe=63508ACE"></p>
+<p align="center"><img src='./banner.gif'></p>
 
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Faizan Alam</a>!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/Faizan7012" target="_blank" rel="noopener noreferrer">Faizan Alam</a>!
 </h2>
 
 <p align="center">
@@ -69,13 +69,10 @@
 <h2 align='center'>📊 My Github Stats</h2>
 
 <div style="display: flex;">
-    <img width="450px" height="200px" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Faizan7012&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="450px" height="200px" alt="Faizan Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Faizan7012&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
     <img width="300px" height="200px" alt="Faizan7012's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <br/>
-<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
-  <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
 
 <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
@@ -89,7 +86,7 @@
 
 <div>
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
-  <p align="center"> <a href="https://github.com/Abhishek-Dewangan"><img src="https://github-profile-trophy.vercel.app/?username=Faizan7012&margin-w=5&theme=radical" alt="Faizan7012" /></a> </p>
+  <p align="center"> <a href="https://github.com/Faizan7012"><img src="https://github-profile-trophy.vercel.app/?username=Faizan7012&margin-w=5&theme=radical" alt="Faizan7012" /></a> </p>
 </div>
 
  <hr>
