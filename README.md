@@ -45,7 +45,7 @@
 
 
 
-<div align='center' style="display: flex , gap:1000px">
+<div align='center' style="display: flex">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -73,7 +73,7 @@
 
 <h2 align='center'>📊 My Github Stats</h2>
 
-<div style="display: flex; justify-content:center">
+<div align='center' style="display: flex">
     <img width="450px" height="200px" alt="Faizan Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Faizan7012&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
     <img width="300px" height="200px" alt="Faizan7012's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
