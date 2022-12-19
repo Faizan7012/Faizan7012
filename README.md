@@ -85,8 +85,8 @@
 </div>
 
 <div>
-  <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
-  <p align="center"<a href="#"><img alt="Faizan7012 Activity Graph" src="(https://github-readme-activity-graph.cyclic.app/graph?username=faizan7012&bg_color=ffcfe9&color=9e4c98&line=43cf07&point=403d3d&area=true&hide_border=true" /></a></p>
+  <p align='center'><b>📊 Github Contribution Graph</b></p><br/>
+  <p align="center"<a href="#"><img alt="Faizan7012 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=faizan7012&bg_color=ffcfe9&color=9e4c98&line=43cf07&point=403d3d&area=true&hide_border=true" /></a></p>
 </div>
 
 <div>
