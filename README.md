@@ -18,7 +18,7 @@
 - 💬 Ask me about any MERN related stuff
 - 📫 you can reach me at faizanst077@gmail.com
 - 😄 Pronouns: He/Him
-- ![resume](https://cdn-icons-png.flaticon.com/128/942/942748.png)
+- <a href='https://drive.google.com/file/d/1fMgV-LJlbMgB72OAd54AQvKlHNqBfcoE/view?usp=share_link'><img style='max-width:40px' src='https://cdn-iconspng.flaticon.com/128/942/942748.png' />  Resume</a>'
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
