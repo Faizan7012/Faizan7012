@@ -20,7 +20,7 @@
 - 😄 Pronouns: He/Him
 - <a target='_blank' style='text-decoration:none;' href='https://drive.google.com/file/d/1fMgV-LJlbMgB72OAd54AQvKlHNqBfcoE/view?usp=share_link'>
   <img style='max-width:40px;' src='https://cdn-iconspng.flaticon.com/128/942/942748.png' />  Resume
-  </a>'
+  </a>
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
