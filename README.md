@@ -78,7 +78,7 @@
 
 <div align='center' style="display: flex">
     <img width="450px" height="200px" alt="Faizan Alam's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Faizan7012&layout=compact&langs_count=5&theme=light" />
-    <img width="300px" height="200px" alt="Faizan7012's Top Languages" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117](https://github-readme-stats-eight-theta.vercel.app/api?username=Faizan7012&show_icons=true&theme=light&include_all_commits=true&count_private=true)" />
+    <img width="300px" height="200px" alt="Faizan7012's Top Languages" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan7012&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <br/>
 
