@@ -21,6 +21,9 @@
 - <a href='https://drive.google.com/file/d/1fMgV-LJlbMgB72OAd54AQvKlHNqBfcoE/view?usp=share_link' target="_blank" rel="noopener noreferrer" >
    📝 Resume
   </a>
+- <a href='https://faizan7012.github.io' target="_blank" rel="noopener noreferrer" >
+   📝 Portfolio
+  </a>
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
