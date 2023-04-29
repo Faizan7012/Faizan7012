@@ -21,9 +21,6 @@
 - <a href='https://drive.google.com/file/d/1fMgV-LJlbMgB72OAd54AQvKlHNqBfcoE/view?usp=share_link' target="_blank" rel="noopener noreferrer" >
    📝 Resume
   </a>
-- <a href='https://faizan7012.github.io' target="_blank" rel="noopener noreferrer" >
-   📝 Portfolio
-  </a>
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
@@ -38,7 +35,7 @@
 <div align='center'>
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/faizan7012)
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://faizan7012.github.io/)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://faizan7012.github.io)
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Faizan7012)
 </div>
 
